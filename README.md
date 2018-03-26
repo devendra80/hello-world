@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans,
+
+Devendra is here. I like Java and python languages. I am learning Machine Learning side by side.
+
